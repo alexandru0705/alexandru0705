@@ -13,7 +13,7 @@ Frontend Web Developer specializing in **React 18, Vite, modular SCSS (BEM metho
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top", width="560">
 
 ### 🌐 Connect with Me
 * **Live Portfolio:** [alexandru0705.github.io](https://alexandru0705.github.io/alexandru-dumitru/)
