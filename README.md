@@ -11,7 +11,7 @@ Frontend Web Developer specializing in **React 18, Vite, modular SCSS (BEM metho
 ### 💻 Core Tech Stack & Tools
 * **Frontend:** React 18, Vite, JavaScript (ES6+), HTML5, CSS3 / SCSS (BEM architecture)
 * **Workflow & Tools:** Git, GitHub Pages, VS Code, Homebrew, Terminal workflows
-* **Hardware & Environment:** MacBook Pro 16" M5 Pro (64GB), macOS local development
+* **Hardware & Environment:** MBP M5 Pro (64GB), macOS local development
 
 ---
   </div>
