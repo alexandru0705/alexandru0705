@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Alexandru
+<div style="position: relative; display: inline-block;">
+
+<img width="5987" height="1784" alt="GitBanner" src="https://github.com/user-attachments/assets/3cf931d8-7f9e-408a-8b27-3685a26ba7cf" />
+
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #ffffff; text-align: center; width: 100%;">
 
 Frontend Web Developer specializing in **React 18, Vite, modular SCSS (BEM methodology), and JavaScript**, currently completing the Web Developer diploma path at OpenClassrooms.
 
@@ -10,7 +14,8 @@ Frontend Web Developer specializing in **React 18, Vite, modular SCSS (BEM metho
 * **Hardware & Environment:** MacBook Pro 16" M5 Pro (64GB), macOS local development
 
 ---
-
+  </div>
+</div>
 <table>
   <tr>
     <td valign="top", width="560">
